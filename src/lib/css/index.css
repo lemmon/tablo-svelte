@@ -1,0 +1,28 @@
+/* purgecss start ignore */
+@import 'abrusco/base';
+/* purgecss end ignore */
+@import 'abrusco/modules';
+
+/* purgecss start ignore */
+/* @import 'buttons.css'; */
+@import 'copy.css';
+/* purgecss end ignore */
+
+@import 'abrusco/utils';
+@import 'abrusco/debug';
+
+/* purgecss start ignore */
+
+:root {
+  --color: #040404;
+  --bg-color: #fff;
+  --bg-shade: #04040408;
+
+  --copy-width: 40rem;
+  --copy-width-wide: 60rem;
+
+  --text-decoration-thickness: 1px;
+  --text-underline-offset: 2px;
+}
+
+/* purgecss end ignore */
